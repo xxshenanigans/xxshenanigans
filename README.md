@@ -2,7 +2,7 @@
 
 ## Interest
 - Data Analyst / Data Scientist
-- ML / DL
+- EDA / ML / DL
 - Python / SQL
 - Education Industry
 
