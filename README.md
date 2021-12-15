@@ -1,12 +1,10 @@
-# import JHJeong👩🏻‍💻👩🏻‍🏫
-
-### Interest
+## Interest
 - Data Analyst / Data Scientist 
 - EDA / ML / DL
 - Python / SQL
 - Education Industry
 
-### Contact
+## Contact
 <a href="mailto:jhhjeong@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"
        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
