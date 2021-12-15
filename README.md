@@ -1,4 +1,4 @@
-# 지혜로운 깃헙생활👩🏻‍💻👩🏻‍🏫
+# import JHJeong👩🏻‍💻👩🏻‍🏫
 
 ### Interest
 - Data Analyst / Data Scientist 
