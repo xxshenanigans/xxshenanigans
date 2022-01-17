@@ -12,11 +12,12 @@
 <a href="https://velog.io/@shenanigans" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
+<!--
 <a href="https://www.instagram.com/xx_shenanigans/" target="_blank">
     <img src="http://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=E4405F"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+-->
 <!--
 **xxshenanigans/xxshenanigans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
